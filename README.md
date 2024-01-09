@@ -1,0 +1,5 @@
+![hotel1](https://github.com/kathleenforgiarini/ios_hotel_management/assets/82175930/62aa8f16-9a28-4235-83ba-39bfaeed0e5f)
+![hotel2](https://github.com/kathleenforgiarini/ios_hotel_management/assets/82175930/f4b3185a-e326-4c0a-a25d-7a5e85f7f105)
+![hotel3](https://github.com/kathleenforgiarini/ios_hotel_management/assets/82175930/60abe496-872b-4ddd-8504-ae11bc8c9b8f)
+![hotel4](https://github.com/kathleenforgiarini/ios_hotel_management/assets/82175930/d25e7deb-13e0-4d18-8e17-52cbfa3e9ed5)
+![hotel5](https://github.com/kathleenforgiarini/ios_hotel_management/assets/82175930/bb69a4bc-0236-4d01-89b4-c015ed2d94eb)
